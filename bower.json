@@ -1,0 +1,29 @@
+{
+  "name": "qNgTimepicker",
+  "version": "1.8.0",
+  "homepage": "https://github.com/jkuri/ngTimepicker",
+  "authors": [
+    "Qnvproit <qnvproit@gmail.com>"
+  ],
+  "description": "Custom AngularJS Timepicker - Qnvproit",
+  "main": "src/js/qNgTimepicker.js",
+  "keywords": [
+    "AngularJS",
+    "directive",
+    "timepicker",
+    "time",
+    "picker"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "fontawesome": "~4.3.0"
+  }
+}
