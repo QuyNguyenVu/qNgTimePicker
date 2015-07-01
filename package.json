@@ -1,14 +1,14 @@
 {
-  "name": "ng-timepicker",
-  "version": "0.9.0",
-  "description": "AngularJS timepicker directive",
+  "name": "q-ng-timepicker",
+  "version": "1.8.0",
+  "description": "Custom AngularJS timepicker directive",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jkuri/ngTimepicker.git"
+    "url": "https://github.com/QuyNguyenVu/qNgTimePicker"
   },
   "keywords": [
     "AngularJS",
@@ -17,10 +17,10 @@
     "time",
     "picker"
   ],
-  "author": "Jan Kuri <jkuri88@gmail.com>",
+  "author": "Qnvproit <qnvproit@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jkuri/ngTimepicker/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jkuri/ngTimepicker"
+  "homepage": ""
 }
